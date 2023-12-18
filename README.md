@@ -1,5 +1,5 @@
 # SkyHeightAirways
-/n Project Case Study
+</br> Project Case Study
 Sky Heights Airways
 Introduction
 The objective of the project is to design a Reservation System application which enable to search and book flights Sky Heights Airways is usable only by a designated number of airline employees. This application must help end user to maintain information related flights, users/Passengers, and their bookings.
